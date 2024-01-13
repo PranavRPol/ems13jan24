@@ -1,0 +1,21 @@
+*
+{
+font-size:30px;
+font-familt:Calibri;
+}
+body
+{
+background-color:lightyellow;
+}
+
+.nav
+{
+background-color:black;
+}
+ .nav a
+{
+color:white;
+text-decoration:none;
+margin:10%;
+}
+
